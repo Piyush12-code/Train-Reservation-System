@@ -1,0 +1,2 @@
+# Train Reservation System
+This project is a full-stack Train Reservation System developed using Spring Boot (Java) for the backend and Node.js expertise for additional services. It features a well-designed database schema and RESTful APIs to manage reservation workflows through a modular and validated architecture. The project also includes UI prototypes and use-case diagrams to map user flows and enhance front-end clarity, providing an intuitive and efficient experience for end-users.
